@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クズリ念（肯定） (Live)",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-03-02T20:42:37.461265Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クズリ念(肯定) - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_クズリ念(肯定)_-_Live_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
